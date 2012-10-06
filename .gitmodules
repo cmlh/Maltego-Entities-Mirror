@@ -1,0 +1,3 @@
+[submodule "mirror/git_submodule/Analyst-CaseFile"]
+	path = mirror/git_submodule/Analyst-CaseFile
+	url = https://github.com/ohdae/Analyst-CaseFile.git
