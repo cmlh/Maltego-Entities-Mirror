@@ -11,3 +11,4 @@ curl -O http://www.paterva.com/web6/products/casefile_entities.mtz
 curl -O http://www.packetninjas.net/storage/socialnet/SocialNetEntityPackage.mtz
 curl -O http://ctas.paterva.com/TDSTransforms/GraphAPI/facebookObject.mtz
 curl -O http://ctas.paterva.com/TDSTransforms/BuiltWith/BuiltWithTechnology.mtz
+curl -O https://static.shodan.io/downloads/shodan-maltego-entities.mtz
